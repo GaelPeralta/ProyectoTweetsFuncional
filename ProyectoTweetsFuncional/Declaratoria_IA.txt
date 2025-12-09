@@ -1,0 +1,11 @@
+
+ ¿Utilizaste herramientas de IA generativa (como ChatGPT, Copilot, etc.) para este proyecto? (Sí / No)
+	Sí, Gemini 
+
+ Si la respuesta es Sí, indica en qué partes te apoyaste (por ejemplo: generación de ejemplos de código, ideas
+para métodos, explicación de errores, etc.).
+	Para el apartado general de la elaboración de la clase de elaborar reportes, ya que no recordaba del todo bien como es que se hacia, en las dos funciones que
+	comprenden la clase hice el uso de la IA, asi como la explicación de ciertas ideas y demás que no lograba entender, por lo que me terminó asesorando para poder
+	explicar ciertas ideas. Por otro lado, he usado un modelo de IA para la elaboración del Readme, ya que nunca he hecho un archivo de ese estilo, por lo que me 
+	base con Gemini, otorgándole una vista de todo mi proyecto para que me diera un archivo parcial.
+

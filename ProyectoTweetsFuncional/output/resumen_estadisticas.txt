@@ -1,0 +1,9 @@
+Reencuento
+================
+Total de tweets encontrados por sentimiento:
+ - Irrelevant: 12990
+ - Neutral: 18318
+ - Negative: 22542
+ - Positive: 20832
+
+Promedio de longitud de tweets de tipo Positive: 92.83
